@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skillInfo>
+	<skill>
+			<id>1</id>
+			<nazwa>Slash</nazwa>
+			<uzycie>
+				"LMB
+				 LMB or RMB while on horse"
+			</uzycie>
+			<film>xxxxxxx</film>
+			<wymagania>
+				<req_lvl>1</req_lvl>
+				<req_sp>5</req_sp>
+				<req_skill>null</req_skill>
+			</wymagania>
+			<opis>
+				Damage 100% 4 attacks
+				Heals 15 WP per hit
+				Accuracy +0.75%
+				Mounted Attack Damage 150%
+				Mounted Attack heals 25 WP per hit
+				Mounted Attack inflicts Knockback
+			</opis>
+	</skill>
+	<skill>
+			<id>2</id>
+			<nazwa>Slash</nazwa>
+			<uzycie>
+				"LMB
+				 LMB or RMB while on horse"
+			</uzycie>
+			<film>xxxxxxx</film>
+			<wymagania>
+					<req_lvl>11</req_lvl>
+					<req_sp>5</req_sp>
+					<req_skill>1</req_skill>
+			</wymagania>
+			<opis>
+				Damage 122% 5 Attacks
+				Heals 16 WP per hit
+				Accuracy +1.5%
+				Mounted Attack Damage 150%
+				Mounted Attack heals 25 WP per hit
+				Mounted Attack inflicts Knockback
+			</opis>
+	</skill>
+	<skill>
+		<id>3</id>
+		<nazwa>Slash</nazwa>
+		<uzycie>
+			"LMB
+			LMB or RMB while on horse"
+		</uzycie>
+		<film>xxxxxxx</film>
+		<wymagania>
+			<req_lvl>15</req_lvl>
+			<req_sp>8</req_sp>
+			<req_skill>2</req_skill>
+		</wymagania>
+		<opis>
+			Damage 144% 6 Attacks
+			Heals 17 WP per hit
+			Accuracy +2.25%
+			Mounted Attack Damage 150%
+			Mounted Attack heals 25 WP per hit
+			Mounted Attack inflicts Knockback
+		</opis>
+	</skill>
+	<skill>
+		<id>4</id>
+		<nazwa>Slash</nazwa>
+		<uzycie>
+			"LMB
+			LMB or RMB while on horse"
+		</uzycie>
+		<film>xxxxxxx</film>
+		<wymagania>
+			<req_lvl>19</req_lvl>
+			<req_sp>10</req_sp>
+			<req_skill>3</req_skill>
+		</wymagania>
+		<opis>
+			Damage 166% 6 Attacks
+			Heals 18 WP per hit
+			Accuracy +3%
+			Mounted Attack Damage 150%
+			Mounted Attack heals 25 WP per hit
+			Mounted Attack inflicts Knockback
+		</opis>
+	</skill>
+	<skill>
+		<id>5</id>
+		<nazwa>Slash</nazwa>
+		<uzycie>
+			"LMB
+			LMB or RMB while on horse"
+		</uzycie>
+		<film>xxxxxxx</film>
+		<wymagania>
+			<req_lvl>23</req_lvl>
+			<req_sp>12</req_sp>
+			<req_skill>4</req_skill>
+		</wymagania>
+		<opis>
+			Damage 188% 6 attacks
+			Heals 19 WP on hit
+			Accuracy +3.75%
+			Mounted Attack Damage 150%
+			Mounted Attack heals 25 WP per hit
+			Mounted Attack inflicts Knockback
+		</opis>
+	</skill>
+	<skill>
+		<id>6</id>
+		<nazwa>Slash</nazwa>
+		<uzycie>
+			"LMB
+			LMB or RMB while on horse"
+		</uzycie>
+		<film>xxxxxxx</film>
+		<wymagania>
+			<req_lvl>27</req_lvl>
+			<req_sp>14</req_sp>
+			<req_skill>5</req_skill>
+		</wymagania>
+		<opis>
+			Damage 210% 6 Attacks
+			Heals 20 WP on hit
+			Accuracy +4.5%
+			Mounted Attack Damage 150%
+			Mounted Attack heals 25 WP per hit
+			Mounted Attack inflicts Knockback
+		</opis>
+	</skill>
+	<skill>
+		<id>7</id>
+		<nazwa>Slash</nazwa>
+		<uzycie>
+			"LMB
+			LMB or RMB while on horse"
+		</uzycie>
+		<film>xxxxxxx</film>
+		<wymagania>
+			<req_lvl>31</req_lvl>
+			<req_sp>19</req_sp>
+			<req_skill>6</req_skill>
+		</wymagania>
+		<opis>
+			Damage 232% 6 Attacks
+			Heals 21 WP on hit
+			Accuracy +5.25%
+			Mounted Attack Damage 150%
+			Mounted Attack heals 25 WP per hit
+			Mounted Attack inflicts Knockback
+		</opis>
+	</skill>
+	<skill>
+		<id>8</id>
+		<nazwa>Slash</nazwa>
+		<uzycie>
+			"LMB
+			LMB or RMB while on horse"
+		</uzycie>
+		<film>xxxxxxx</film>
+		<wymagania>
+			<req_lvl>35</req_lvl>
+			<req_sp>23</req_sp>
+			<req_skill>7</req_skill>
+		</wymagania>
+		<opis>
+			Damage 254% x 6 Attacks
+			Heals 22 WP on hit
+			Accuracy +6%
+			Mounted Attack Damage 150%
+			Mounted Attack heals 25 WP per hit
+			Mounted Attack inflicts Knockback
+		</opis>
+	</skill>
+	<skill>
+		<id>9</id>
+		<nazwa>Slash</nazwa>
+		<uzycie>
+			"LMB
+			LMB or RMB while on horse"
+		</uzycie>
+		<film>xxxxxxx</film>
+		<wymagania>
+			<req_lvl>39</req_lvl>
+			<req_sp>24</req_sp>
+			<req_skill>8</req_skill>
+		</wymagania>
+		<opis>
+			Damage 276% x 6 Attacks
+			Heals 23 WP on hit
+			Accuracy +6.75%
+			Mounted Attack Damage 150%
+			Mounted Attack heals 25 WP per hit
+			Mounted Attack inflicts Knockback
+		</opis>
+	</skill>
+	<skill>
+		<id>10</id>
+		<nazwa>Slash</nazwa>
+		<uzycie>
+			"LMB
+			LMB or RMB while on horse"
+		</uzycie>
+		<film>xxxxxxx</film>
+		<wymagania>
+			<req_lvl>43</req_lvl>
+			<req_sp>25</req_sp>
+			<req_skill>9</req_skill>
+		</wymagania>
+		<opis>
+			Damage 298% 6 Attacks
+			Heals 24 WP on hit
+			Accuracy +7.5%
+			Mounted Attack Damage 150%
+			Mounted Attack heals 25 WP per hit
+			Mounted Attack inflicts Knockback
+		</opis>
+	</skill>	
+</skillInfo>

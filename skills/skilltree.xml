@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skilltree>
+	<warrior>
+		<skill id="w1" icon="phm_skill_1018.png"/>
+	</warrior>
+</skilltree>
