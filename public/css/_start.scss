@@ -1,0 +1,166 @@
+
+@keyframes hide {
+    0% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@keyframes fade-top {
+    0% { top: -50px; }
+    70% { top: 55%; }
+    100% { top: 50%; }
+}
+
+@keyframes pasek {
+    0% { width: 0px; }
+    100% { width: 100%; }
+}
+
+#start{
+    background-color: #535353;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 0;
+
+    .body {
+        height: 300px;
+        width: 100%;
+        position: absolute;
+        top: 50%;
+        margin-top: -250px;
+        animation: fade-top 2s 2s, hide 2s;
+        z-index: 2;
+
+        .class{
+            width: 100px;
+            height: 100%;
+            float: left;
+            margin-left: 100px;
+            position: relative;
+
+            &:hover{
+
+                section:nth-child(2){
+                    margin-top: 0px;
+                    opacity: 1;
+                }
+            }
+        }
+
+        .class section {
+            width: 100px;
+            height: 100px;
+            position: relative;
+
+            &:first-child{
+                position: absolute;
+                left: 0px;
+                top: 200px;
+            }
+
+            &:nth-child(2){
+                opacity: 0;
+                margin-top: 50px;
+            }
+
+            &:hover {
+
+                &{
+                    cursor: pointer;
+                }
+
+                > h1 {
+                    opacity: 1;
+                }
+
+                >.avatars{
+                    transform: scale(1.5);
+                }
+            }
+
+            .avatars {
+                background-image: url('../image/warrior.jpg');
+                background-size: cover;
+                width: 100%;
+                height: 100%;
+                border: solid black 2px;
+                border-radius: 10%;
+                position: absolute;
+
+            }
+
+            &.berserker .avatars {
+                background-image: url('../image/berserker.jpg');
+            }
+
+            &.sorcerss .avatars {
+                background-image: url('../image/sorcer.jpg');
+            }
+
+            &.valkyria .avatars {
+                background-image: url('../image/valkiria.jpg');
+            }
+
+            &.tamer .avatars {
+                background-image: url('../image/tamer.jpg');
+            }
+
+            &.ranger .avatars {
+                background-image: url('../image/ranger.jpg');
+            }
+
+            &.witch .avatars {
+                background-image: url('../image/witch.jpg');
+            }
+
+            &.wizard .avatars {
+                background-image: url('../image/wizard.jpg');
+            }
+
+            &.blade_f .avatars {
+                background-image: url('../image/blader_f.jpg');
+            }
+
+            &.blade_m .avatars {
+                background-image: url('../image/blader_m.jpg');
+            }
+
+            &.kunoichi .avatars {
+                 background-image: url('../image/kuonichi.jpg');
+             }
+
+            &.ninja .avatars {
+                background-image: url('../image/ninja.jpg');
+            }
+
+            h1{
+                margin: 0px;
+                position: absolute;
+                bottom: -65px;
+                left: 50%;
+                font-family: fantasy;
+                text-transform: uppercase;
+                transform: translateX(-50%);
+                color: black;
+                opacity: 0;
+            }
+
+        }
+    }
+
+    .mid {
+        background-image: url('../image/kreska.jpg');
+        background-repeat: repeat-x;
+        width: 100%;
+        height: 13px;
+        position: absolute;
+        top: 50%;
+        left: 0px;
+        margin-top: -6px;
+        z-index: 1;
+        animation: pasek 2s;
+
+    }
+
+
+}

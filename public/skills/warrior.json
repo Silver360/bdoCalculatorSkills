@@ -1,0 +1,136 @@
+{
+  "skillInfo": {
+    "skill": [
+      {
+        "id": "1",
+        "nazwa": "Slash",
+        "uzycie": "\n\t\t\t\t\"LMB\n\t\t\t\t LMB or RMB while on horse\"\n\t\t\t",
+        "icon": "image/icon.png",
+        "film": "xxxxxxx",
+        "wymagania": {
+          "req_lvl": "1",
+          "req_sp": "5",
+          "req_skill": "null"
+        },
+        "opis": "\n\t\t\t\tDamage 100% 4 attacks\n\t\t\t\tHeals 15 WP per hit\n\t\t\t\tAccuracy +0.75%\n\t\t\t\tMounted Attack Damage 150%\n\t\t\t\tMounted Attack heals 25 WP per hit\n\t\t\t\tMounted Attack inflicts Knockback\n\t\t\t"
+      },
+      {
+        "id": "2",
+        "nazwa": "Slash",
+        "uzycie": "\n\t\t\t\t\"LMB\n\t\t\t\t LMB or RMB while on horse\"\n\t\t\t",
+        "icon": "image/icon.png",
+        "film": "xxxxxxx",
+        "wymagania": {
+          "req_lvl": "11",
+          "req_sp": "5",
+          "req_skill": "1"
+        },
+        "opis": "\n\t\t\t\tDamage 122% 5 Attacks\n\t\t\t\tHeals 16 WP per hit\n\t\t\t\tAccuracy +1.5%\n\t\t\t\tMounted Attack Damage 150%\n\t\t\t\tMounted Attack heals 25 WP per hit\n\t\t\t\tMounted Attack inflicts Knockback\n\t\t\t"
+      },
+      {
+        "id": "3",
+        "nazwa": "Slash",
+        "uzycie": "\n\t\t\t\"LMB\n\t\t\tLMB or RMB while on horse\"\n\t\t",
+        "icon": "image/icon.png",
+        "film": "xxxxxxx",
+        "wymagania": {
+          "req_lvl": "15",
+          "req_sp": "8",
+          "req_skill": "2"
+        },
+        "opis": "\n\t\t\tDamage 144% 6 Attacks\n\t\t\tHeals 17 WP per hit\n\t\t\tAccuracy +2.25%\n\t\t\tMounted Attack Damage 150%\n\t\t\tMounted Attack heals 25 WP per hit\n\t\t\tMounted Attack inflicts Knockback\n\t\t"
+      },
+      {
+        "id": "4",
+        "nazwa": "Slash",
+        "uzycie": "\n\t\t\t\"LMB\n\t\t\tLMB or RMB while on horse\"\n\t\t",
+        "icon": "image/icon.png",
+        "film": "xxxxxxx",
+        "wymagania": {
+          "req_lvl": "19",
+          "req_sp": "10",
+          "req_skill": "3"
+        },
+        "opis": "\n\t\t\tDamage 166% 6 Attacks\n\t\t\tHeals 18 WP per hit\n\t\t\tAccuracy +3%\n\t\t\tMounted Attack Damage 150%\n\t\t\tMounted Attack heals 25 WP per hit\n\t\t\tMounted Attack inflicts Knockback\n\t\t"
+      },
+      {
+        "id": "5",
+        "nazwa": "Slash",
+        "uzycie": "\n\t\t\t\"LMB\n\t\t\tLMB or RMB while on horse\"\n\t\t",
+        "icon": "image/icon.png",
+        "film": "xxxxxxx",
+        "wymagania": {
+          "req_lvl": "23",
+          "req_sp": "12",
+          "req_skill": "4"
+        },
+        "opis": "\n\t\t\tDamage 188% 6 attacks\n\t\t\tHeals 19 WP on hit\n\t\t\tAccuracy +3.75%\n\t\t\tMounted Attack Damage 150%\n\t\t\tMounted Attack heals 25 WP per hit\n\t\t\tMounted Attack inflicts Knockback\n\t\t"
+      },
+      {
+        "id": "6",
+        "nazwa": "Slash",
+        "uzycie": "\n\t\t\t\"LMB\n\t\t\tLMB or RMB while on horse\"\n\t\t",
+        "icon": "image/icon.png",
+        "film": "xxxxxxx",
+        "wymagania": {
+          "req_lvl": "27",
+          "req_sp": "14",
+          "req_skill": "5"
+        },
+        "opis": "\n\t\t\tDamage 210% 6 Attacks\n\t\t\tHeals 20 WP on hit\n\t\t\tAccuracy +4.5%\n\t\t\tMounted Attack Damage 150%\n\t\t\tMounted Attack heals 25 WP per hit\n\t\t\tMounted Attack inflicts Knockback\n\t\t"
+      },
+      {
+        "id": "7",
+        "nazwa": "Slash",
+        "uzycie": "\n\t\t\t\"LMB\n\t\t\tLMB or RMB while on horse\"\n\t\t",
+        "icon": "image/icon.png",
+        "film": "xxxxxxx",
+        "wymagania": {
+          "req_lvl": "31",
+          "req_sp": "19",
+          "req_skill": "6"
+        },
+        "opis": "\n\t\t\tDamage 232% 6 Attacks\n\t\t\tHeals 21 WP on hit\n\t\t\tAccuracy +5.25%\n\t\t\tMounted Attack Damage 150%\n\t\t\tMounted Attack heals 25 WP per hit\n\t\t\tMounted Attack inflicts Knockback\n\t\t"
+      },
+      {
+        "id": "8",
+        "nazwa": "Slash",
+        "uzycie": "\n\t\t\t\"LMB\n\t\t\tLMB or RMB while on horse\"\n\t\t",
+        "icon": "image/icon.png",
+        "film": "xxxxxxx",
+        "wymagania": {
+          "req_lvl": "35",
+          "req_sp": "23",
+          "req_skill": "7"
+        },
+        "opis": "\n\t\t\tDamage 254% x 6 Attacks\n\t\t\tHeals 22 WP on hit\n\t\t\tAccuracy +6%\n\t\t\tMounted Attack Damage 150%\n\t\t\tMounted Attack heals 25 WP per hit\n\t\t\tMounted Attack inflicts Knockback\n\t\t"
+      },
+      {
+        "id": "9",
+        "nazwa": "Slash",
+        "uzycie": "\n\t\t\t\"LMB\n\t\t\tLMB or RMB while on horse\"\n\t\t",
+        "icon": "image/icon.png",
+        "film": "xxxxxxx",
+        "wymagania": {
+          "req_lvl": "39",
+          "req_sp": "24",
+          "req_skill": "8"
+        },
+        "opis": "\n\t\t\tDamage 276% x 6 Attacks\n\t\t\tHeals 23 WP on hit\n\t\t\tAccuracy +6.75%\n\t\t\tMounted Attack Damage 150%\n\t\t\tMounted Attack heals 25 WP per hit\n\t\t\tMounted Attack inflicts Knockback\n\t\t"
+      },
+      {
+        "id": "10",
+        "nazwa": "Slash",
+        "uzycie": "\n\t\t\t\"LMB\n\t\t\tLMB or RMB while on horse\"\n\t\t",
+        "icon": "image/icon.png",
+        "film": "xxxxxxx",
+        "wymagania": {
+          "req_lvl": "43",
+          "req_sp": "25",
+          "req_skill": "9"
+        },
+        "opis": "\n\t\t\tDamage 298% 6 Attacks\n\t\t\tHeals 24 WP on hit\n\t\t\tAccuracy +7.5%\n\t\t\tMounted Attack Damage 150%\n\t\t\tMounted Attack heals 25 WP per hit\n\t\t\tMounted Attack inflicts Knockback\n\t\t"
+      }
+    ]
+  }
+}

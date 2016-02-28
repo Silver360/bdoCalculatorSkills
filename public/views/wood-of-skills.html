@@ -1,0 +1,38 @@
+
+
+<section id="wood-of-skills">
+    <img ng-click="changeState()" style="position: absolute; top: 10px; right: 10px; width: 50px; z-index: 3" src="image/home_button.png"/>
+    <div class="body">
+        <div class="top">
+            <div class="description" ng-show="desc.id !== undefined ">
+                <img src="image/icon.png" /><br>
+                <span ng-show="false" >{{ desc.id }}</span><br>
+                <span>Name: {{ desc.nazwa }}</span><br>
+                <span>
+                    Use: {{ desc.uzycie }}
+                </span><br>
+                <span>
+                    Description: {{ desc.opis }}
+                </span>
+            </div>
+            <div class="video">
+                <video autoplay loop>
+                    <source src="http://www.blackdeserttome.com/images/calculator/ui_movie/movie_pc_skill/8_pwm_skill/pwm_877.webm" type="video/webm">
+                </video>
+            </div>
+        </div>
+        <div class="skills">
+            <div class="row" ng-repeat="skillSet in skills" >
+                <img src="{{ skill.icon }}" ng-repeat="skill in skillSet" ng-click="flowDesc(skill)" />
+                <div class="help" ng-show="desc.id == undefined">
+                    <img src="image/sword.png" />
+                    <span>Select skill you want</span>
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+
+</section>
